@@ -6,7 +6,4 @@ This project performs an Exploratory Data Analysis (EDA) on sales data using Pyt
 4. Finding frequently bought product pairs using combination analysis.
 5. The analysis is conducted using Pandas, NumPy, and Matplotlib. The results help understand customer purchasing behavior and optimize sales strategies.
 
-Technologies Used:
-1. Python (Pandas, NumPy, Matplotlib, Seaborn)
-2. Jupyter Notebook
-3. CSV Data Processing
+
